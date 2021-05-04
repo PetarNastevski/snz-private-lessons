@@ -1,4 +1,4 @@
-from math import log 
+from math import log
 
 
 def unique_counts(rows):
