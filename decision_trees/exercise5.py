@@ -188,3 +188,5 @@ if __name__ == '__main__':
         print(f"Predvidena klasa: unknown")
     else:
         print(f"Predvidena klasa: {p_class}")     # if not the winner is the class with the most predictions
+
+
