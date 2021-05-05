@@ -10,7 +10,7 @@ def stats_calculate_all(x, stat_config):
     :type x: list(float)
     :param stat_config: листа со имиња на статистики кои треба да се пресметаат
     :type stat_config: list(str)
-    :return: листа со пресметаните статистики според редоследот од stat_config
+    :return: листа со пресметаните статистики според редоследот од stat_config.
     :rtype: list
     """
     assert len(set(stat_config).difference(['len', 'min', 'max', 'range', 'mean', 'hmean',
