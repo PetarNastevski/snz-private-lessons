@@ -210,5 +210,4 @@ if __name__ == "__main__":
             counter2 += 1
 
     print(f"Tochnost so prvoto drvo na odluka: {counter1/len(test)}")       # print the accuracy with both trees and see which one is better
-    print(f"Tochnost so vtoroto drvo na odluka: {counter2 / len(test)}")    # the formula is the same as in previous exercise
-
+    print(f"Tochnost so vtoroto drvo na odluka: {counter2 / len(test)}")    # the formula is the same as in previous exercise.
