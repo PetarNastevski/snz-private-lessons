@@ -44,4 +44,4 @@ def calculator():          # we define function that handles the input two numbe
 
 
 if __name__ == "__main__":
-    calculator()               # do the function call.
+    calculator()               # do the function call..
