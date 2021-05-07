@@ -20,6 +20,7 @@ KONTRADIKCIJA
 'NA'
 Size: 11
 I. setosa
+
 Size: 10
 I. setosa
  Yes
